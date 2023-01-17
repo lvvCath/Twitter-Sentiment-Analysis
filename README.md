@@ -1,5 +1,5 @@
 # Twitter-Sentiment-Analysis
-Sentiment Analysis of Tweets About Online Classes During Covid-19 Pandemic in the Philippines Using Naïve Bayes Algorithm <br>
+**Title:** Sentiment Analysis of Tweets About Online Classes During Covid-19 Pandemic in the Philippines Using Naïve Bayes Algorithm <br>
 **Course:** ITE 406 - Applied Text Mining / Applied Social Network Analysis <br>
 **Date:** November 22, 2022 - December 15, 2022 <br>
 
