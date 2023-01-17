@@ -1,0 +1,12 @@
+Method: Web Scraping
+
+Tool Used: snscraper
+
+Keywords: "online class OR #onlineclass OR #distancelearning OR #onlineschool OR #onlineteaching"
+
+Date: March 2020 to December 2022
+
+GeoCode used: 12.8797, 121.7740, 500mi → Philippines Coordinates
+
+Dataset Header:
+Date, User, Tweet, Likes, Retweets, Hashtags, Language
